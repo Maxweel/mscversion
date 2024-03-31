@@ -118,13 +118,13 @@ namespace MscVersion
             new VcRuntimeVersion(Guid.Parse("{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}"), MscVer.Vs_2013, ArchType.x86, "12.0.30501 - Additional runtime"),
             new VcRuntimeVersion(Guid.Parse("{929FBD26-9020-399B-9A7A-751D61F0B942}"), MscVer.Vs_2013, ArchType.x64, "12.0.30501 - Additional runtime"),
 
-            new VcRuntimeVersion(Guid.Parse("{61087a79-ac85-455c-934d-1fa22cc64f36}"), MscVer.Vs_2013, ArchType.x86, "12.0.40660"),
-            new VcRuntimeVersion(Guid.Parse("{ef6b00ec-13e1-4c25-9064-b2f383cb8412}"), MscVer.Vs_2013, ArchType.x64, "12.0.40660"),
-            new VcRuntimeVersion(Guid.Parse("{E30D8B21-D82D-3211-82CC-0F0A5D1495E8}"), MscVer.Vs_2013, ArchType.x86, "12.0.40660 - Minimum runtime"),
-            new VcRuntimeVersion(Guid.Parse("{CB0836EC-B072-368D-82B2-D3470BF95707}"), MscVer.Vs_2013, ArchType.x64, "12.0.40660 - Minimum runtime"),
-            new VcRuntimeVersion(Guid.Parse("{7DAD0258-515C-3DD4-8964-BD714199E0F7}"), MscVer.Vs_2013, ArchType.x86, "12.0.40660 - Additional runtime"),
-            new VcRuntimeVersion(Guid.Parse("{5740BD44-B58D-321A-AFC0-6D3D4556DD6C}"), MscVer.Vs_2013, ArchType.x64, "12.0.40660 - Additional runtime"),
-
+            new VcRuntimeVersion(Guid.Parse("{9dff3540-fc85-4ed5-ac84-9e3c7fd8bece}"), MscVer.Vs_2013, ArchType.x86, "12.0.40664"),
+            new VcRuntimeVersion(Guid.Parse("{042d26ef-3dbe-4c25-95d3-4c1b11b235a7}"), MscVer.Vs_2013, ArchType.x64, "12.0.40664"),
+            new VcRuntimeVersion(Guid.Parse("{8122DAB1-ED4D-3676-BB0A-CA368196543E}"), MscVer.Vs_2013, ArchType.x86, "12.0.40664 - Minimum runtime"),
+            new VcRuntimeVersion(Guid.Parse("{53CF6934-A98D-3D84-9146-FC4EDF3D5641}"), MscVer.Vs_2013, ArchType.x64, "12.0.40664 - Minimum runtime"),
+            new VcRuntimeVersion(Guid.Parse("{D401961D-3A20-3AC7-943B-6139D5BD490A}"), MscVer.Vs_2013, ArchType.x86, "12.0.40664 - Additional runtime"),
+            new VcRuntimeVersion(Guid.Parse("{010792BA-551A-3AC0-A7EF-0FAB4156C382}"), MscVer.Vs_2013, ArchType.x64, "12.0.40664 - Additional runtime"),
+            
             // MSVC++ 14.0 _MSC_VER == 1900 (Visual Studio 2015)
             // =================================================
             // 14.0.23026
